@@ -1,0 +1,11 @@
+This one needs to be solved manually for step #2:
+    - The weights for the first 200 iterations will be printed
+    - Notice that there is a loop
+    - Get the starting index of the first iteration in the loop, i
+    - Compute the size of the loop, m
+    - n = 10^9 % m
+    - p = i % m
+    - r = i + m + n - p
+
+I am aware that this can be solved by using a cycle detection algorithm, but I
+am too lazy to implement it. :)
